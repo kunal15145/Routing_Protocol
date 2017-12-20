@@ -1,0 +1,3 @@
+DV algo class refers to the Bellman Ford Algorithm of Distance Vector
+while
+LinkStateAlgo Class refers to the Djkstra's Algorithm of Link State
